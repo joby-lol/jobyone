@@ -5,7 +5,7 @@
 ## 🔭 I’m currently working on
 * Bespoke PHP CMS stuff
 * A PHP OOP tool for working with HTML
-* Converting my personal site to Jekyll
+* Converting my personal site ~to~from Jekyll
 * Building a wacky bespoke tool for embedding custom code in a static site
 
 ## 📫 How to reach me
